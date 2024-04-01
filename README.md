@@ -25,3 +25,29 @@
 
 <br />
 
+### Practicum 3
+
+![Screenshot](src/app/images/03.png)
+
+"To do 1 : Improve the implementation of Practicum 2 using Dynamic Routes"
+
+![Screenshot](src/app/images/03.1.png)
+![Screenshot](src/app/images/03.2.png)
+![Screenshot](src/app/images/03.3.png)
+
+<br />
+
+"To do 2 : Using the concepts of Nested Routes and Dynamic Routes, create a page with the routing /products/[productId]/reviews/[reviewId]."
+
+![Screenshot](src/app/images/03.4.png)
+![Screenshot](src/app/images/03.5.png)
+
+<br />
+
+### Practicum 4
+
+![Screenshot](src/app/images/04.png)
+
+
+
+<br />
