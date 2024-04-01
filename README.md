@@ -46,8 +46,9 @@
 
 ### Practicum 4
 
+"Todo: Add links that you have previously worked on!"
+
 ![Screenshot](src/app/images/04.png)
-
-
+![Screenshot](src/app/images/04.1.png)
 
 <br />
